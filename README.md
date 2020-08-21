@@ -24,3 +24,5 @@ In this research we used Logistic Regression (LR), Linear Discriminant Analysis 
 
 # Under the guidance of 
 [Digipodium] (http://www.digipodium.com/)
+https://github.com/digipodium
+
