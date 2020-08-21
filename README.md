@@ -21,3 +21,6 @@ Data of seeds can be collected from various sources. In this project I have coll
 # Conclusions
 In this study, our goal was to classify seed accuracy using machine algorithms. For this we used six different algorithms to implement. Eight independent variables were selected and examined in developing the model. The model is developed for prediction of determinant factors of seeds based on Machine Learning.
 In this research we used Logistic Regression (LR), Linear Discriminant Analysis (LDA), K Neighbors Classifier (KNN), Decision Tree Classifier (CART), Gaussian NB (NB), and Support Vector Machine (SVM). We send information in normal and scaled manner, and then prediction was performed. Based on all the outcomes we concluded that Support Vector Machine (SVM) perform better than all algorithm. The accuracy of this algorithm emerged out to be more than that algorithm. The machine learning approach is recommended as flexible and precise way to solve the stated issue.
+
+# Under the guidance of 
+[Digipodium] (http://www.digipodium.com/)
